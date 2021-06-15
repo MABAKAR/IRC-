@@ -1,0 +1,18 @@
+.titre{
+  text-align: center;
+}
+.form{
+    border: 1px solid black;
+    width: 70%;
+    margin-left: 11%;
+    height: 40px;
+}
+
+.inp{
+    width: 160%;
+}
+.onglet{
+    position: absolute;
+    margin-top: -50%;
+    margin-left: 80%;
+}
