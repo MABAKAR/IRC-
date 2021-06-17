@@ -1,10 +1,7 @@
-# IRC-
-### IRC WITH REACT-JS ,NODE-JS,MONGODB
-
 # Chat IRC
 
 ## Introduction
-Réalisation d'un serveur IRC en Node.js.
+Réalisation d'un serveur IRC en NODE-js, REACT-JS ,NODE-JS,MONGODB.
 
 ## Features 
 
